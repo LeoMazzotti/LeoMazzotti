@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Leonardo Mazzotti</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
-- 🌱 Atualmente estou aprendendo **React**
+- 🌱 Atualmente estou estudando Engenharia Front end na Ebac. 
 
 - 👨‍💻 Alguns dos meus projetos: [https://leonardomazzotti.netlify.app/portfolio.html](https://leonardomazzotti.netlify.app/portfolio.html)
 
