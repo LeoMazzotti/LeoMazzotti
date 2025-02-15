@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Leonardo Mazzotti</h1>
-<h3 align="center">Qa</h3>
+<h3 align="center">QA Engineer | Cypress</h3>
 
 - 🌱 Atualmente estou estudando Qa LumeStack. 
 
